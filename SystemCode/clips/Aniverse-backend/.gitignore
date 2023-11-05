@@ -1,0 +1,15 @@
+/.venv
+/animeEnv
+*.csv
+*.pkl
+*.pyc
+*.deb
+*.yaml
+*.jpg
+*.txt
+__pycache__/
+node_modules/
+static/
+/myvenv
+/myenvs
+*.DS_Store
